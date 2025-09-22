@@ -1,7 +1,7 @@
 {
-  "buildCommand": "npm install && npx vite build",
-  "outputDirectory": "dist/public",
   "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/public",
   "framework": null,
   "rewrites": [
     {
